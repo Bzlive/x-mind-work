@@ -5,7 +5,7 @@
 yarn install
 ```
 
-## cvs
+## 将提供的cvs文件转换成JSON文件
 ```
 yarn cvstojson
 ```
