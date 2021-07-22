@@ -207,7 +207,7 @@ export default {
 }
 </script>
 
-<style lang="less" scoped>
+<style scoped>
   .content{
     width: 80%;
     margin: 0 auto;
@@ -218,9 +218,8 @@ export default {
     background: #eee;
     margin-bottom: 30px;
     text-align: left;
-
-    span {
-      font-weight: bold;
-    }
+  }
+  .count span {
+    font-weight: bold;
   }
 </style>

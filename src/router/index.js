@@ -15,7 +15,10 @@ export default new Router({
     {
       path: '/pocketBook',
       name: "pocketBook",
-      component: () => import("@/pages/pocketBook")
+      component: () => import("@/pages/pocketBook"),
+      meta: {
+        title: 'work'
+      }
     }
   ],
   scrollBehavior: () => ({y: 0})
