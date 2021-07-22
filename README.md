@@ -1,5 +1,7 @@
 # x-mind-work
 
+This project is a project of vue3.0, which is built by using Vue cli
+
 ## Project setup
 ```
 yarn install
@@ -24,3 +26,8 @@ yarn build
 ```
 yarn lint
 ```
+
+### Browser Support
+Modern browsers and Internet Explorer 10+.
+
+
